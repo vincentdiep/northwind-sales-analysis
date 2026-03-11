@@ -19,6 +19,13 @@ and employee productivity using SQL and Excel.
 - **Bottom 10 products by revenue are all priced under $10**, suggesting low revenue is driven by low unit price rather than lack of demand
 - **Guaraná Fantástica** is the only discontinued product in the bottom 10, suggesting the company responded appropriately to its performance
 
+## Visuals
+![Top Customers](visuals/01_top_customers_chart.png)
+![Category Revenue](visuals/02_category_revenue_chart.png)
+![Revenue Trend](visuals/03_revenue_trend_chart.png)
+![Employee Performance](visuals/04_employee_performance_chart.png)
+![Underperforming Products](visuals/05_underperforming_products_chart.png)
+
 ## Tools Used
 - SQLite / DB Browser for SQLite
 - Git / GitHub
